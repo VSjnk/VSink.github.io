@@ -1,4 +1,4 @@
-Package: com.VSink.test
+Package: com.vsink.test
 Version: 2.0.0-1
 Section: Tweaks
 Maintainer: VSink <kingnick5050@gmail.com>
@@ -10,19 +10,4 @@ MD5sum: 0fddcd6939652171cb750132c433da48
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: VSink <kingnick5050@gmail.com>
-Depiction: https://supermamon.github.io/VSink/depictions/?p=com.supermamon.newpackage
-
-Package: com.VSink.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: VSink <kingnick5050@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: VSink <kingnick5050@gmail.com>
-Depiction: https://supermamon.github.io/VSink/depictions/?p=com.supermamon.oldpackage
-
+Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
