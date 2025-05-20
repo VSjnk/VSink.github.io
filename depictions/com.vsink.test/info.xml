@@ -14,11 +14,6 @@
 	<descriptionlist>
 		<description>I'm testing Building Packages, Soon I will try making some games,</description>
 		<description>and/or even making a way to build godot for Cydia!</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>		
 		<screenshot>
@@ -27,9 +22,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Testing my app</change>
 	</changelog>
 	<links>
 		<link>
