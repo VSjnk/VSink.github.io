@@ -18,9 +18,9 @@ Section: Applications
 Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: https://archive.org/download/com.google.ios.youtube_20240923/com.google.ios.youtube-12.05.7-544007664-820824563.ipa
+Filename: ./ipas/com.google.ios.youtube-12.05.7-544007664-820824563.ipa
 Size: 66634713
-MD5sum: 0fddcd6939652171cb750132c433da48
+MD5sum: 1e2e5e24d26302ccfedb6727c9d14728
 Description: This is a old version of youtube for IOS 12.5.7 
 Name: Youtube Patch Test
 Author: VSink <kingnick5050@gmail.com>
