@@ -1,6 +1,6 @@
 Package: com.vsink.test
 Version: 2.0.0-1
-Section: Tweaks
+Section: Applications
 Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -9,5 +9,19 @@ Size: 17132
 MD5sum: 0fddcd6939652171cb750132c433da48
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: Test
+Author: VSink <kingnick5050@gmail.com>
+Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
+
+Package: com.vsink.youtubepatch
+Version: 2.0.0-1
+Section: Applications
+Maintainer: VSink <kingnick5050@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: https://archive.org/download/com.google.ios.youtube_20240923/com.google.ios.youtube-12.05.7-544007664-820824563.ipa
+Size: 66634713
+MD5sum: 0fddcd6939652171cb750132c433da48
+Description: This is a old version of youtube for IOS 12.5.7 
+Name: Youtube Patch Test
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
