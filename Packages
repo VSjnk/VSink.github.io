@@ -1,6 +1,6 @@
 Package: com.vsink.test
 Version: 2.0.0-1
-Section: Apps
+Section: Tweaks
 Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
