@@ -12,16 +12,16 @@ Name: Test
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
 
-Package: com.vsink.youtubepatch
+Package: com.vsink.legacytube
 Version: 2.0.0-1
 Section: Applications
 Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./ipas/com.google.ios.youtube-12.05.7-544007664-820824563.ipa
-Size: 66634713
-MD5sum: 1e2e5e24d26302ccfedb6727c9d14728
-Description: This is a old version of youtube for IOS 12.5.7 
+Filename: ./debs/com.vsink.legacytube_0.0.1-1+debug_iphoneos-arm.deb
+Size: 8782
+MD5sum: 8c79439f95d8cf29505663298d94d736
+Description: For IOS 12.5.7 and up
 Name: Youtube Patch Test
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
