@@ -1,6 +1,6 @@
 Package: com.vsink.test
 Version: 2.0.0-1
-Section: Tweaks
+Section: Apps
 Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -8,6 +8,6 @@ Filename: ./debs/com.vsink.test_0.0.1-1+debug_iphoneos-arm.deb
 Size: 17132
 MD5sum: 0fddcd6939652171cb750132c433da48
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Name: Test
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
