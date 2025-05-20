@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: VSinks Source
+Label: VSource
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: VSinks Source (Or VSource) is my own source for making whatever. I want to bring godot here soon...
