@@ -19,9 +19,9 @@ Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.vsink.legacytube_0.0.1-1+debug_iphoneos-arm.deb
-Size: 8782
-MD5sum: 8c79439f95d8cf29505663298d94d736
+Size: 10404
+MD5sum: e639533c70e38d6acabac4696f13a260
 Description: For IOS 12.5.7 and up
-Name: Youtube Patch Test
+Name: Legacy Tube
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.legacytube
