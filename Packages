@@ -12,16 +12,16 @@ Name: Test
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.test
 
-Package: com.vsink.legacytube
+Package: com.vsink.youtubeplusplys
 Version: 2.0.0-1
 Section: Applications
 Maintainer: VSink <kingnick5050@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.vsink.legacytube_0.0.1-1+debug_iphoneos-arm.deb
-Size: 10404
-MD5sum: e639533c70e38d6acabac4696f13a260
-Description: For IOS 12.5.7 and up
-Name: Legacy Tube
+Filename: ./debs/youtubeplusplus_1.4r-62.deb
+Size: 2086970
+MD5sum: 99e0949eb809dea9a9f46aa55bcad0f8
+Description: A youtube player for old ios devices on my server for easy downloading!
+Name: YoutubePlusPlus
 Author: VSink <kingnick5050@gmail.com>
 Depiction: https://vsjnk.github.io/VSink.github.io/depictions/?p=com.vsink.legacytube
